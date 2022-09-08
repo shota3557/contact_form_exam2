@@ -1,0 +1,40 @@
+.side menu .point {
+    background-color: #FCECEC;
+}
+
+.side_menu .point a {
+    color: #4d4d4d
+}
+
+.contact-form {
+    font-size: ;
+}
+
+.contact-form th {
+    text-align: right;
+    width: 150px;
+    height: 7rem;
+    padding-right: 10px;
+}
+
+.contact-form textarea, .contact-form input:not(input[type="radio"]) {
+    width: 480px;
+}
+
+input.submit-btn {
+    width: 180px !important;
+}
+
+.submit-btn {
+    color: white;
+    background-color: #008B8B;
+    padding: 10px;
+    font-size: 3rem;
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+.submit-btn:hover {
+    opacity: 0.5;
+}
